@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/transparency-live/static/css/main.cee23076.css",
-    "main.js": "/transparency-live/static/js/main.fb9e475a.js",
+    "main.js": "/transparency-live/static/js/main.b7fb502f.js",
     "static/media/Login-Background-v2.svg": "/transparency-live/static/media/Login-Background-v2.c9ca39f5ca05af5698ac60db09eefda9.svg",
     "static/media/pdf_icon.svg": "/transparency-live/static/media/pdf_icon.38d6956169e207a2b7174472bd45be67.svg",
     "static/media/account_circle_off.svg": "/transparency-live/static/media/account_circle_off.753b33a14655b893fc32d97e1772c7b1.svg",
@@ -35,10 +35,10 @@
     "static/media/edit-pencil-white.svg": "/transparency-live/static/media/edit-pencil-white.ec4dd01e042ae500a8f67a55e4b6c3cc.svg",
     "index.html": "/transparency-live/index.html",
     "main.cee23076.css.map": "/transparency-live/static/css/main.cee23076.css.map",
-    "main.fb9e475a.js.map": "/transparency-live/static/js/main.fb9e475a.js.map"
+    "main.b7fb502f.js.map": "/transparency-live/static/js/main.b7fb502f.js.map"
   },
   "entrypoints": [
     "static/css/main.cee23076.css",
-    "static/js/main.fb9e475a.js"
+    "static/js/main.b7fb502f.js"
   ]
 }
