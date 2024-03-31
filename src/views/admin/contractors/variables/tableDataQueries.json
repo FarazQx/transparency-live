@@ -1,0 +1,134 @@
+[
+  {
+    "contractor name": "Phillip Wuthrich",
+    "contractor type": "Translator",
+    "completed jobs": "12",
+    "user name": "Phillip01",
+    "address": "21 Street Almond...",
+    "phone number": "(123) 456-7878",
+    "language": "Spanish",
+    "per word charges": "$0.35",
+    "hourly rate": "-"
+  },
+  {
+    "contractor name": "Timothy Barlin",
+    "contractor type": "Interpreter",
+    "completed jobs": "02",
+    "user name": "Tim2",
+    "address": "21 Street Almond...",
+    "phone number": "(123) 456-7878",
+    "language": "French",
+    "per word charges": "-",
+    "hourly rate": "$0.45"
+  },
+  {
+    "contractor name": "Albert Dera",
+    "contractor type": "Translator",
+    "completed jobs": "42",
+    "user name": "Dera42",
+    "address": "21 Street Almond...",
+    "phone number": "(123) 456-7878",
+    "language": "Arabic",
+    "per word charges": "$0.22",
+    "hourly rate": "-"
+  },
+  {
+    "contractor name": "Radu Florin",
+    "contractor type": "Translator",
+    "completed jobs": "24",
+    "user name": "RaduF1",
+    "address": "21 Street Almond...",
+    "phone number": "(123) 456-7878",
+    "language": "Spanish",
+    "per word charges": "$0.27",
+    "hourly rate": "-"
+  },
+  {
+    "contractor name": "Brookie",
+    "contractor type": "Interpreter",
+    "completed jobs": "21",
+    "user name": "Brookie7",
+    "address": "21 Street Almond...",
+    "phone number": "(123) 456-7878",
+    "language": "Russian",
+    "per word charges": "-",
+    "hourly rate": "$0.33"
+  },
+  {
+    "contractor name": "Irene Strong",
+    "contractor type": "Both",
+    "completed jobs": "07",
+    "user name": "Iver0",
+    "address": "21 Street Almond...",
+    "phone number": "(123) 456-7878",
+    "language": "French",
+    "per word charges": "$0.35",
+    "hourly rate": "$0.35"
+  },
+  {
+    "contractor name": "Samuel Raita",
+    "contractor type": "Interpreter",
+    "completed jobs": "54",
+    "user name": "Samuel79",
+    "address": "21 Street Almond...",
+    "phone number": "(123) 456-7878",
+    "language": "Russian",
+    "per word charges": "-",
+    "hourly rate": "$0.55"
+  },
+  {
+    "contractor name": "Sahil Moosa",
+    "contractor type": "Interpreter",
+    "completed jobs": "19",
+    "user name": "Sahil02",
+    "address": "21 Street Almond...",
+    "phone number": "(123) 456-7878",
+    "language": "German",
+    "per word charges": "-",
+    "hourly rate": "$0.22"
+  },
+  {
+    "contractor name": "Duman",
+    "contractor type": "Interpreter",
+    "completed jobs": "08",
+    "user name": "Duman99",
+    "address": "21 Street Almond...",
+    "phone number": "(123) 456-7878",
+    "language": "Spanish",
+    "per word charges": "-",
+    "hourly rate": "$0.18"
+  },
+  {
+    "contractor name": "Khosravi",
+    "contractor type": "Translator",
+    "completed jobs": "00",
+    "user name": "Khosravi04",
+    "address": "21 Street Almond...",
+    "phone number": "(123) 456-7878",
+    "language": "Arabic",
+    "per word charges": "$0.22",
+    "hourly rate": "-"
+  },
+  {
+    "contractor name": "Buhener",
+    "contractor type": "Translator",
+    "completed jobs": "11",
+    "user name": "Buhener44",
+    "address": "21 Street Almond...",
+    "phone number": "(123) 456-7878",
+    "language": "German",
+    "per word charges": "$0.35",
+    "hourly rate": "-"
+  },
+  {
+    "contractor name": "Naveed Ahmed",
+    "contractor type": "Translator",
+    "completed jobs": "25",
+    "user name": "Naveed01",
+    "address": "21 Street Almond...",
+    "phone number": "(123) 456-7878",
+    "language": "Arabic",
+    "per word charges": "-",
+    "hourly rate": "-"
+  }
+]
